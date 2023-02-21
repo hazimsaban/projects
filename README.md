@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>AWS Cloud Migration (on premisis to cloud) </b>
+- <b>AWS Cloud Migration (on premise to cloud) </b>
   - [osTicket: Prerequisites and Installation](https://github.com/hazim2016/osticket-prereqs)
   
 - <b>Microsoft Azure</b>
